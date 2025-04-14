@@ -12,3 +12,7 @@ tags = {
     CreatedBy = "Terraform"
 }
 
+az_private_subnet_buck = "us-east-1a"
+az_private_subnet_app = "us-east-1b"
+az_public_subnet = "us-east-1a"
+enable_nat_gateway = true
